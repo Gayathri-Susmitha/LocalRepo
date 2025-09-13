@@ -1,0 +1,7 @@
+p:first-child{
+    color: pink;
+}
+
+p:last-child{
+    color:blueviolet;
+}
